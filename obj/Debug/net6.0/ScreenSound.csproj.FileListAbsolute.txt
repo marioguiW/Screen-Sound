@@ -1,0 +1,98 @@
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
+D:\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+D:\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+D:\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+D:\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+D:\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+D:\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+D:\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+D:\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+D:\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+D:\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+D:\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+D:\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+D:\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+D:\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
+D:\ScreenSound\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+D:\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ScreenSound\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ScreenSound\bin\Debug\net6.0\OpenAI_API.dll
+D:\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.AssemblyReference.cache
+D:\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CopyComplete
+E:\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+E:\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+E:\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+E:\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+E:\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+E:\ScreenSound\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+E:\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\ScreenSound\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\ScreenSound\bin\Debug\net6.0\OpenAI_API.dll
+E:\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.AssemblyReference.cache
+E:\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+E:\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+E:\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+E:\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+E:\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CopyComplete
+E:\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+E:\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+E:\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+E:\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+E:\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\OpenAI_API.dll
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.AssemblyReference.cache
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CopyComplete
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+C:\Users\mario\Documents\GitHub\C#\C#  dominando Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
